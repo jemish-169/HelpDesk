@@ -10,17 +10,17 @@
 
 ## 📸 Screenshots
 
-| Select or take image | Editior | Filters |
+| Onboarding | User's home screen | Create ticket |
 |--|--|--|
 | ![1](https://user-images.githubusercontent.com/95186825/227797891-2c7b288f-9a94-43a8-8188-2ab21c66f5b8.jpg) | ![2](https://user-images.githubusercontent.com/95186825/227797897-183c7a28-0c7d-4567-9e64-02268cc3f9c9.jpg) | ![3](https://user-images.githubusercontent.com/95186825/227797902-1c820be5-2a10-4800-b0dc-78505356a65a.jpg) |
 
-| Exposure | Vintage | Crop |
+| Ticket created | Created ticket in home screen | Edit ticket from admin side |
 |--|--|--|
 | ![4](https://user-images.githubusercontent.com/95186825/227797911-70fd7b3c-17f9-4df3-a9d0-b1c091ddfefe.jpg) | ![5](https://user-images.githubusercontent.com/95186825/227797924-6694fe7c-1a40-4249-82e8-1359b77b289d.jpg) | ![6](https://user-images.githubusercontent.com/95186825/227797925-015a07e9-33c7-4c01-9699-5615cf96b3e9.jpg) |
 
-| Stickers | Save Image | Share Image |
+| Edited ticket in admin screen | Edited ticket in user screen | Recived mail notifications |
 |--|--|--|
-| ![7](https://user-images.githubusercontent.com/95186825/227797930-361733fd-c73e-4a3f-b138-1360a13915e2.jpg) | ![8](https://user-images.githubusercontent.com/95186825/227797933-22e81e6b-28e3-4822-aec0-0a2f0f6ab5da.jpg) |
+| ![7](https://user-images.githubusercontent.com/95186825/227797930-361733fd-c73e-4a3f-b138-1360a13915e2.jpg) | ![8](https://user-images.githubusercontent.com/95186825/227797933-22e81e6b-28e3-4822-aec0-0a2f0f6ab5da.jpg) | ![image](https://user-images.githubusercontent.com/95186825/227798421-6d53e7dc-45b4-48d4-ae16-3d7be8cc79c5.png) |
 
 
 ## Built With 🛠
