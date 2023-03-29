@@ -20,7 +20,7 @@
 
 | Edited ticket on admin's home screen | Edited ticket on user's home screen | Ticket Database |
 |--|--|--|
-| ![7](https://user-images.githubusercontent.com/95186825/227797930-361733fd-c73e-4a3f-b138-1360a13915e2.jpg) | ![8](https://user-images.githubusercontent.com/95186825/227797933-22e81e6b-28e3-4822-aec0-0a2f0f6ab5da.jpg) | ![Screenshot 2023-03-25 075127](https://user-images.githubusercontent.com/95186825/228583563-e7e231cc-1c91-426a-83ba-864811bdf749.png) |
+| ![7](https://user-images.githubusercontent.com/95186825/227797930-361733fd-c73e-4a3f-b138-1360a13915e2.jpg) | ![8](https://user-images.githubusercontent.com/95186825/227797933-22e81e6b-28e3-4822-aec0-0a2f0f6ab5da.jpg) | ![Screenshot 2023-03-25 084515](https://user-images.githubusercontent.com/95186825/228584307-a6645995-1b7b-4f75-b92b-01a9c255ab8d.png) |
 
 
 ## Built With 🛠
